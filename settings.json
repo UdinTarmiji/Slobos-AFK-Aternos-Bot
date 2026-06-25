@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "BenjaminNetanyahu",
   "bot-account": {
-    "username": "AfkBot",
+    "username": "BenjaminNetanyahu",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "mabarcok2627.aternos.me",
     "port": "33315",
-    "version": "26.1.2",
+    "version": "1.21.4",
     "try-creative": false
   },
   "position": {
